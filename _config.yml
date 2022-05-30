@@ -3,8 +3,8 @@
 title: Sanara
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Hi, my name is Nick Adams. I’m a Product Designer and Photographer based in NY. I like being at the center of events, being free and enjoying every moment.
-baseurl: "/saranatheme" # The subpath of your site, e.g. /blog
-url: "https://kimbumi.github.io" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -61,7 +61,7 @@ mailchimp-identifier: # Add your MailChimp form identifier. For example - blogen
 #-------------------------------
 # Build settings
 markdown: kramdown
-permalink: /:title
+permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -83,7 +83,7 @@ include:
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
-tag_permalink_style:  /:title
+tag_permalink_style:  pretty
 
 sass:
   sass_dir: _sass
