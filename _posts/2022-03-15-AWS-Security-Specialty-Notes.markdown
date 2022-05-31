@@ -1,3 +1,14 @@
+---
+layout: post
+title:  AWS Security Specialty Notes
+description: These are all the notes that I took after reading the entire exam guide for the AWS Ceritifed Security - Specialty exam (ISBN-13: 978-1789534474). It is recommended that you install Obsidian and download the zip file instead, as this will allow you to quickly and easily navigate through these notes.
+date:   2022-03-15 
+image:  '/images/0xd4y-logo-gray.png'
+tags:   [AWS Security]
+---
+
+**This report can be read both on this site, and as its <a href = "https://0xd4y.github.io/reports/Writer%20Writeup.pdf">original report form</a>. It is highly recommended that you read the original report form instead because it is better formatted.**
+
 # AWS Security Specialty
 These are all the notes that I took after reading the entire exam guide for the AWS Ceritifed Security - Specialty exam (ISBN-13: 978-1789534474). It is recommended that you install Obsidian and download the zip file instead, as this will allow you to quickly and easily navigate through these notes.
 
